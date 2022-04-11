@@ -1,0 +1,15 @@
+C:\Users\mhuda\Desktop\csharp\csharp1\bin\Debug\net6.0\csharp1.exe
+C:\Users\mhuda\Desktop\csharp\csharp1\bin\Debug\net6.0\csharp1.deps.json
+C:\Users\mhuda\Desktop\csharp\csharp1\bin\Debug\net6.0\csharp1.runtimeconfig.json
+C:\Users\mhuda\Desktop\csharp\csharp1\bin\Debug\net6.0\csharp1.dll
+C:\Users\mhuda\Desktop\csharp\csharp1\bin\Debug\net6.0\csharp1.pdb
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\csharp1.csproj.AssemblyReference.cache
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\csharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\csharp1.AssemblyInfoInputs.cache
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\csharp1.AssemblyInfo.cs
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\csharp1.csproj.CoreCompileInputs.cache
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\csharp1.dll
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\refint\csharp1.dll
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\csharp1.pdb
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\csharp1.genruntimeconfig.cache
+C:\Users\mhuda\Desktop\csharp\csharp1\obj\Debug\net6.0\ref\csharp1.dll
