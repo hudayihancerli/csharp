@@ -1,0 +1,15 @@
+C:\Users\mhuda\Desktop\csharp\csharp2\bin\Debug\net6.0\csharp2.exe
+C:\Users\mhuda\Desktop\csharp\csharp2\bin\Debug\net6.0\csharp2.deps.json
+C:\Users\mhuda\Desktop\csharp\csharp2\bin\Debug\net6.0\csharp2.runtimeconfig.json
+C:\Users\mhuda\Desktop\csharp\csharp2\bin\Debug\net6.0\csharp2.dll
+C:\Users\mhuda\Desktop\csharp\csharp2\bin\Debug\net6.0\csharp2.pdb
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\csharp2.csproj.AssemblyReference.cache
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\csharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\csharp2.AssemblyInfoInputs.cache
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\csharp2.AssemblyInfo.cs
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\csharp2.csproj.CoreCompileInputs.cache
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\csharp2.dll
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\refint\csharp2.dll
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\csharp2.pdb
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\csharp2.genruntimeconfig.cache
+C:\Users\mhuda\Desktop\csharp\csharp2\obj\Debug\net6.0\ref\csharp2.dll
