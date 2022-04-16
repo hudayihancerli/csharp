@@ -1,0 +1,15 @@
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\csharpOdev2.csproj.AssemblyReference.cache
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\csharpOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\csharpOdev2.AssemblyInfoInputs.cache
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\csharpOdev2.AssemblyInfo.cs
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\csharpOdev2.csproj.CoreCompileInputs.cache
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\bin\Debug\net6.0\csharpOdev2.exe
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\bin\Debug\net6.0\csharpOdev2.deps.json
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\bin\Debug\net6.0\csharpOdev2.runtimeconfig.json
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\bin\Debug\net6.0\csharpOdev2.dll
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\bin\Debug\net6.0\csharpOdev2.pdb
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\csharpOdev2.dll
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\refint\csharpOdev2.dll
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\csharpOdev2.pdb
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\csharpOdev2.genruntimeconfig.cache
+C:\Users\mhuda\Desktop\csharp\csharpOdev2-1\obj\Debug\net6.0\ref\csharpOdev2.dll
